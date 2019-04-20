@@ -24,6 +24,11 @@ GitHub:[https://github.com/hmsjy2017][4]
 
 Email:[1462668901@qq.com][5]
 
+## Friends
+[Ruichao][6]
+[0xJacky][7]
+[Sunbelife][8]
+
 <p align="center">© Tony's Place 2018-2019 ·</p> 
 
 
@@ -32,6 +37,9 @@ Email:[1462668901@qq.com][5]
 [3]: https://weibo.com/hmsjy
 [4]: https://github.com/hmsjy2017
 [5]: mailto:1462668901@qq.com
+[6]: https://kejiyuanzhuo.top
+[7]: https://jackyu.cn
+[8]: https://sunbelife.com
 
 
 
