@@ -18,15 +18,19 @@ I hope I can get a better result in the next exam!!!
 Please visit [Tony's Blog][2]
 
 ## Link
-Weibo:[https://weibo.com/hmsjy][3]
-
-GitHub:[https://github.com/hmsjy2017][4]
-
+Weibo:[https://weibo.com/hmsjy][3]  
+GitHub:[https://github.com/hmsjy2017][4]  
 Email:[1462668901@qq.com][5]
 
+## Contact
+QQ:`1462668901`
+   `430730573`
+WeChat:`hmsjy2017`
+Twitter:`hmsjy2017`
+
 ## Friends
-[Ruichao][6]
-[0xJacky][7]
+[Ruichao][6]  
+[0xJacky][7]  
 [Sunbelife][8]
 
 <p align="center">© Tony's Place 2018-2019 ·</p> 
