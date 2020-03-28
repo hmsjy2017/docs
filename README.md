@@ -37,7 +37,7 @@ Twitter:`hmsjy2017`
 
 
 [1]: https://iamsjy.oss-cn-shanghai.aliyuncs.com/icon.jpg
-[2]: https://iamsjy.xyz
+[2]: https://iamsjy.com
 [3]: https://weibo.com/hmsjy
 [4]: https://github.com/hmsjy2017
 [5]: mailto:1462668901@qq.com
