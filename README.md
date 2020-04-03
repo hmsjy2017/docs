@@ -1,3 +1,4 @@
+Click [here](https://github.com/hmsjy2017/docs/edit/master/README.md) to edit this page.
 ![icon][1]
 
 # Welcome to Tony's Place
