@@ -1,4 +1,3 @@
-Click [here](https://github.com/hmsjy2017/docs/edit/master/README.md) to edit this page.
 ![icon][1]
 
 # Welcome to Tony's Place
@@ -33,6 +32,8 @@ Twitter:`hmsjy2017`
 [Ruichao][6]  
 [0xJacky][7]  
 [Sunbelife][8]
+
+Click [here](https://github.com/hmsjy2017/docs/edit/master/README.md) to edit this page.
 
 <p align="center">© Tony's Place 2018-2020 ·</p> 
 
